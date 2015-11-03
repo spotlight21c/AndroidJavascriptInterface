@@ -13,7 +13,7 @@ Before build this project, you have to change url that is yours. Line 42 at Main
 <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 ```
 
-# usage(for server)
+# Usage(for server)
 
 ```
 <img src="" id="img">
